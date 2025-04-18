@@ -1,0 +1,8 @@
+medec_pati.layout
+medec_pati.depend
+main.o
+main.exe
+medec_pati.exe
+medecin.o
+patient.o
+personne.o
